@@ -12,10 +12,3 @@ Team Member : Sridhar
 Team Member : Abiram
 
 Demo Link : https://drive.google.com/file/d/114oQUqBI6Q3ILmo0-8AUjJ_DMM2KV_CT/view?usp=drive_link
-
-
-
-
-
-# To Supply Leftover Food to Poor
-Utilizing Salesforce, our project streamlines surplus food collection and distribution to the needy, ensuring efficiency and transparency.
